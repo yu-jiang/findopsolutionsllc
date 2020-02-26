@@ -2,7 +2,7 @@
 title: Findop Solutions LLC
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome!
+  Copyright 2020
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://findop.xyz" # the base hostname & protocol for your site
 #twitter_username: findop
