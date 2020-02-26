@@ -1,7 +1,8 @@
 <header class="site-header">
   
   <div class="wrapper">
-    <img src="findoplogo.png" alt="Girl in a jacket"> 
+    <img src="{{ 'findoplogo.png' | prepend:site.baseurl  }}" alt="Findop Logo" 
+    style="float:left;width:600px;height:200px;"> 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
