@@ -17,5 +17,15 @@
       <description></description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://findop.xyz/about/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://findop.xyz/about/</guid>
+      <description>About me Findop Solutions LLC is a technical consulting company founded in early 2020 by me, Yu Jiang. I am a controls engineer (or more broadly, an applied mathematician) based in the Greater Boston Area, MA. I hold a PhD degree in Electrical Engineering (minored in Mathematics) from the New York University (NYU).
+Academia I have a strong publication track record in academia, including a few first-authored research papers published on IEEE Transactions on Automatic Control (TAC) and Automatica.</description>
+    </item>
+    
   </channel>
 </rss>
