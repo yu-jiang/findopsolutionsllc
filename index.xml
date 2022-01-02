@@ -23,7 +23,7 @@
       <pubDate>Sat, 01 Jan 2022 15:35:50 -0500</pubDate>
       
       <guid>https://findop.xyz/projects/</guid>
-      <description>Here is list of projects I worked on. For the sake of confidentiality, I will only provide publicly avaiable information and will hide the names of my clients.
+      <description>Here is list of projects I worked on. For the sake of confidentiality, I will provide only the minimum information.
 Simulink operating point search This was the major cross-team R&amp;amp;D project I participated at MathWorks. The client makes backhoe machine and needed enhanced feature in Simulink control design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features.</description>
     </item>
     
