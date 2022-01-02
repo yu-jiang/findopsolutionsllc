@@ -18,12 +18,12 @@
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Selected Projects</title>
       <link>https://findop.xyz/projects/</link>
       <pubDate>Sat, 01 Jan 2022 15:35:50 -0500</pubDate>
       
       <guid>https://findop.xyz/projects/</guid>
-      <description>Here is list of projects I worked on. For the sake of confidentiality, I will provide only the minimum information.
+      <description>Here is list of selected projects I worked on. For the sake of confidentiality, I will provide only the minimum information.
 Operating point search on a Simscape Model of a Backhoe This was the major cross-team application project I participated at MathWorks. The client makes backhoe machines and needed enhanced feature in Simulink Control Design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features.</description>
     </item>
     
@@ -37,12 +37,13 @@ Operating point search on a Simscape Model of a Backhoe This was the major cross
     </item>
     
     <item>
-      <title>TestPost</title>
+      <title>Happy New Year!</title>
       <link>https://findop.xyz/posts/testpost/</link>
       <pubDate>Sat, 01 Jan 2022 00:05:04 -0500</pubDate>
       
       <guid>https://findop.xyz/posts/testpost/</guid>
-      <description></description>
+      <description>Happy New Year!
+(Watching Boston 2022 First Night Fireworks across Charles River)</description>
     </item>
     
     <item>

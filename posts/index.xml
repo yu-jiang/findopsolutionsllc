@@ -10,13 +10,17 @@
         <atom:link href="https://findop.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>TestPost</title>
+            <title>Happy New Year!</title>
             <link>https://findop.xyz/posts/testpost/</link>
             <pubDate>Sat, 01 Jan 2022 00:05:04 -0500</pubDate>
             
             <guid>https://findop.xyz/posts/testpost/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <description>Happy New Year!
+(Watching Boston 2022 First Night Fireworks across Charles River)</description>
+            <content type="html"><![CDATA[<p>Happy New Year!</p>
+<p><img src="/img/2022NewYearsEveBoston.jpg" alt="Boston Fireworks"></p>
+<p>(Watching Boston 2022 First Night Fireworks across Charles River)</p>
+]]></content>
         </item>
         
     </channel>
