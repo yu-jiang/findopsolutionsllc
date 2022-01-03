@@ -11,15 +11,26 @@
         
         <item>
             <title>Happy New Year!</title>
-            <link>https://findop.xyz/posts/testpost/</link>
+            <link>https://findop.xyz/posts/2022-01-01-happy-new-year/</link>
             <pubDate>Sat, 01 Jan 2022 00:05:04 -0500</pubDate>
             
-            <guid>https://findop.xyz/posts/testpost/</guid>
+            <guid>https://findop.xyz/posts/2022-01-01-happy-new-year/</guid>
             <description>Happy New Year!
 (Watching Boston 2022 First Night Fireworks across Charles River)</description>
             <content type="html"><![CDATA[<p>Happy New Year!</p>
 <p><img src="/img/2022NewYearsEveBoston.jpg" alt="Boston Fireworks"></p>
 <p>(Watching Boston 2022 First Night Fireworks across Charles River)</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Testpost</title>
+            <link>https://findop.xyz/posts/testpost/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            
+            <guid>https://findop.xyz/posts/testpost/</guid>
+            <description>This is a test post</description>
+            <content type="html"><![CDATA[<p>This is a test post</p>
 ]]></content>
         </item>
         
