@@ -18,13 +18,13 @@
     </item>
     
     <item>
-      <title>Selected Projects</title>
-      <link>https://findop.xyz/projects/</link>
+      <title>Consulting Services</title>
+      <link>https://findop.xyz/services/</link>
       <pubDate>Sat, 01 Jan 2022 15:35:50 -0500</pubDate>
       
-      <guid>https://findop.xyz/projects/</guid>
-      <description>Here is list of selected projects I worked on. For the sake of confidentiality, I will provide only the minimum information.
-Operating point search on a Simscape model of a backhoe This was the major cross-team application project I participated at MathWorks. The client makes backhoe machines and needed enhanced feature in Simulink Control Design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features.</description>
+      <guid>https://findop.xyz/services/</guid>
+      <description>Consulting Services Findop Solutions LLC provides technical consulting services on
+ Helping you identify the right tools from control theory, optimization, machine learning, and data sciences for your specific engineering applications Prototyping control algorithms (e.g., PID, LQR, Adaptive, Robust, Learning-based) for various applications (e.g., ACC, steering control) Reviewing planning and control architecture and algorithms design Simulink/Simscape modeling and model-based-design Literature review / patent research on autonomous driving and robotics related inventions  (Note that due to my current engagement with ClearMotion, I will not be able to work on things related to active vehicle suspension systems)</description>
     </item>
     
     <item>
