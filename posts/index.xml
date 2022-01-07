@@ -24,13 +24,14 @@
         </item>
         
         <item>
-            <title>Testpost</title>
-            <link>https://findop.xyz/posts/testpost/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <title>Findop Solutions is open for business</title>
+            <link>https://findop.xyz/posts/2020-04-25-open-for-business/</link>
+            <pubDate>Sat, 25 Apr 2020 00:05:04 -0500</pubDate>
             
-            <guid>https://findop.xyz/posts/testpost/</guid>
-            <description>This is a test post</description>
-            <content type="html"><![CDATA[<p>This is a test post</p>
+            <guid>https://findop.xyz/posts/2020-04-25-open-for-business/</guid>
+            <description>Findop Solutions is open for business.</description>
+            <content type="html"><![CDATA[<p>Findop Solutions is open for business.</p>
+<p><img src="/img/findoplogo.png" alt="Boston Fireworks"></p>
 ]]></content>
         </item>
         
