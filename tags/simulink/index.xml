@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simulink on Findop Solutions LLC</title>
+    <link>https://findop.xyz/tags/simulink/</link>
+    <description>Recent content in simulink on Findop Solutions LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 23 May 2018 22:55:46 -0500</lastBuildDate><atom:link href="https://findop.xyz/tags/simulink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A jumping simulink integrator (narrated in Chinese)</title>
+      <link>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</link>
+      <pubDate>Wed, 23 May 2018 22:55:46 -0500</pubDate>
+      
+      <guid>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</guid>
+      <description>This is a video (narriated in Chinese) regarding how to create a simulink block that jumps around when the model is running/simulating.
+  This was originally post on 知乎 (zhihu.com) by myself.</description>
+    </item>
+    
+  </channel>
+</rss>

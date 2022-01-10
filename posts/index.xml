@@ -15,10 +15,8 @@
             <pubDate>Sat, 01 Jan 2022 00:05:04 -0500</pubDate>
             
             <guid>https://findop.xyz/posts/2022-01-01-happy-new-year/</guid>
-            <description>Happy New Year!
-(Watching Boston 2022 First Night Fireworks across Charles River)</description>
-            <content type="html"><![CDATA[<p>Happy New Year!</p>
-<p><img src="/img/2022NewYearsEveBoston.jpg" alt="Boston Fireworks"></p>
+            <description>(Watching Boston 2022 First Night Fireworks across Charles River)</description>
+            <content type="html"><![CDATA[<p><img src="/img/2022NewYearsEveBoston.jpg" alt="Boston Fireworks"></p>
 <p>(Watching Boston 2022 First Night Fireworks across Charles River)</p>
 ]]></content>
         </item>
@@ -29,9 +27,26 @@
             <pubDate>Sat, 25 Apr 2020 00:05:04 -0500</pubDate>
             
             <guid>https://findop.xyz/posts/2020-04-25-open-for-business/</guid>
-            <description>Findop Solutions is open for business.</description>
-            <content type="html"><![CDATA[<p>Findop Solutions is open for business.</p>
-<p><img src="/img/findoplogo.png" alt="Boston Fireworks"></p>
+            <description></description>
+            <content type="html"><![CDATA[<p><img src="/img/findoplogo.png" alt="Boston Fireworks"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>A jumping simulink integrator (narrated in Chinese)</title>
+            <link>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</link>
+            <pubDate>Wed, 23 May 2018 22:55:46 -0500</pubDate>
+            
+            <guid>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</guid>
+            <description>This is a video (narriated in Chinese) regarding how to create a simulink block that jumps around when the model is running/simulating.
+  This was originally post on 知乎 (zhihu.com) by myself.</description>
+            <content type="html"><![CDATA[<p>This is a video (narriated in Chinese) regarding how to create a simulink block that jumps around when the model is running/simulating.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/AZ-ruOd9TBU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>This was originally post on <a href="https://zhuanlan.zhihu.com/p/34494554">知乎 (zhihu.com)</a> by myself.</p>
 ]]></content>
         </item>
         

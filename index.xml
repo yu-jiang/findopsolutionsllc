@@ -42,8 +42,7 @@
       <pubDate>Sat, 01 Jan 2022 00:05:04 -0500</pubDate>
       
       <guid>https://findop.xyz/posts/2022-01-01-happy-new-year/</guid>
-      <description>Happy New Year!
-(Watching Boston 2022 First Night Fireworks across Charles River)</description>
+      <description>(Watching Boston 2022 First Night Fireworks across Charles River)</description>
     </item>
     
     <item>
@@ -61,7 +60,17 @@
       <pubDate>Sat, 25 Apr 2020 00:05:04 -0500</pubDate>
       
       <guid>https://findop.xyz/posts/2020-04-25-open-for-business/</guid>
-      <description>Findop Solutions is open for business.</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A jumping simulink integrator (narrated in Chinese)</title>
+      <link>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</link>
+      <pubDate>Wed, 23 May 2018 22:55:46 -0500</pubDate>
+      
+      <guid>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</guid>
+      <description>This is a video (narriated in Chinese) regarding how to create a simulink block that jumps around when the model is running/simulating.
+  This was originally post on 知乎 (zhihu.com) by myself.</description>
     </item>
     
   </channel>
