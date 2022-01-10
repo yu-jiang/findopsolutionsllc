@@ -18,5 +18,14 @@
   This was originally post on 知乎 (zhihu.com) by myself.</description>
     </item>
     
+    <item>
+      <title>Simulink Model Api</title>
+      <link>https://findop.xyz/posts/2018-05-05-simulink-model-api/</link>
+      <pubDate>Sat, 05 May 2018 23:33:04 -0500</pubDate>
+      
+      <guid>https://findop.xyz/posts/2018-05-05-simulink-model-api/</guid>
+      <description>This is a video (narriated in Chinese) introducing how to make use of Simulink model API. This was originally post on 知乎 (zhihu.com) by myself.</description>
+    </item>
+    
   </channel>
 </rss>

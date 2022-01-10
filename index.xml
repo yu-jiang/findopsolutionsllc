@@ -55,15 +55,6 @@
     </item>
     
     <item>
-      <title>Findop Solutions is open for business</title>
-      <link>https://findop.xyz/posts/2020-04-25-open-for-business/</link>
-      <pubDate>Sat, 25 Apr 2020 00:05:04 -0500</pubDate>
-      
-      <guid>https://findop.xyz/posts/2020-04-25-open-for-business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A jumping simulink integrator (narrated in Chinese)</title>
       <link>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</link>
       <pubDate>Wed, 23 May 2018 22:55:46 -0500</pubDate>
@@ -71,6 +62,15 @@
       <guid>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</guid>
       <description>This is a video (narriated in Chinese) regarding how to create a simulink block that jumps around when the model is running/simulating.
   This was originally post on 知乎 (zhihu.com) by myself.</description>
+    </item>
+    
+    <item>
+      <title>Simulink Model Api</title>
+      <link>https://findop.xyz/posts/2018-05-05-simulink-model-api/</link>
+      <pubDate>Sat, 05 May 2018 23:33:04 -0500</pubDate>
+      
+      <guid>https://findop.xyz/posts/2018-05-05-simulink-model-api/</guid>
+      <description>This is a video (narriated in Chinese) introducing how to make use of Simulink model API. This was originally post on 知乎 (zhihu.com) by myself.</description>
     </item>
     
   </channel>
