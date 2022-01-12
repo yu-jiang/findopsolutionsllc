@@ -22,6 +22,24 @@
         </item>
         
         <item>
+            <title>Camera Calibration Using MATLAB</title>
+            <link>https://findop.xyz/posts/2021-01-10-camera-calibration-using-matlab/</link>
+            <pubDate>Sun, 10 Jan 2021 23:54:47 -0500</pubDate>
+            
+            <guid>https://findop.xyz/posts/2021-01-10-camera-calibration-using-matlab/</guid>
+            <description>Today, I started to play around the camera calibration app in MATLAB Autonomous Driving System Toolbox to calibrate the intrinsic parameters.
+The app applis the Zhang&amp;rsquo;s method (checker board method) to quickly calibrate the parameters we need.
+See MathWorks Documentation for more details
+I used this link to generate the checker board, and have it printed at Fedex.</description>
+            <content type="html"><![CDATA[<p>Today, I started to play around the camera calibration app in MATLAB Autonomous Driving System Toolbox to calibrate the intrinsic parameters.</p>
+<p><img src="/img/202101CameraCalibraiton.jpg" alt=""></p>
+<p>The app applis the Zhang&rsquo;s method (checker board method) to quickly calibrate the parameters we need.</p>
+<p>See <a href="https://www.mathworks.com/help/vision/ug/using-the-single-camera-calibrator-app.html">MathWorks Documentation for more details</a></p>
+<p>I used <a href="https://calib.io/pages/camera-calibration-pattern-generator">this link</a> to generate the checker board, and have it printed at Fedex.</p>
+]]></content>
+        </item>
+        
+        <item>
             <title>A jumping simulink integrator (narrated in Chinese)</title>
             <link>https://findop.xyz/posts/2018-05-23-simulink-jumping-integrator/</link>
             <pubDate>Wed, 23 May 2018 22:55:46 -0500</pubDate>
